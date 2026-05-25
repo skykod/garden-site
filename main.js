@@ -12,11 +12,11 @@ const totalFlowers = 6;
 
 const flowerImages = [
     "flower-1.png",
-    "assets/images/flower-2.png",
-    "assets/images/flower-3.png",
-    "assets/images/flower-4.png",
-    "assets/images/flower-5.png",
-    "assets/images/flower-6.png"
+    "flower-2.png",
+    "flower-3.png",
+    "flower-4.png",
+    "flower-5.png",
+    "flower-6.png"
 ];
 
 function createFlower(index) {
