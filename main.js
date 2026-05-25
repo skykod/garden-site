@@ -51,9 +51,9 @@ function showMessage(memory, flowerElement) {
 
     box.classList.add('show');
 
-    setTimeout(() => {
-        box.classList.remove('show');
-    }, 10000);
+    document.addEventListener('click', () => {
+    box.classList.remove('show');
+}, { once: true });
 }
 
 function openFinalFlower() {
