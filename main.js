@@ -19,6 +19,7 @@ const flowerImages = [
     "flower-6.png"
 ];
 
+
 function createFlower(index) {
     const container = document.getElementById('flowers');
 
