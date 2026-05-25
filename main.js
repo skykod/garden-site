@@ -11,7 +11,7 @@ let wateredCount = 0;
 const totalFlowers = 6;
 
 const flowerImages = [
-    "assets/images/flower-1.png",
+    "flower-1.png",
     "assets/images/flower-2.png",
     "assets/images/flower-3.png",
     "assets/images/flower-4.png",
