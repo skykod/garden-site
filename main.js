@@ -53,7 +53,7 @@ function showMessage(memory, flowerElement) {
 
     setTimeout(() => {
         box.classList.remove('show');
-    }, 7000);
+    }, 10000);
 }
 
 function openFinalFlower() {
